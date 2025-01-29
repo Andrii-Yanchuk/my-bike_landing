@@ -6,7 +6,7 @@
     padding-inline: 72px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .container {
     max-width: 1020px;
     margin-inline: auto;
@@ -47,7 +47,7 @@
     line-height: 64px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .header__title {
     font-size: 80px;
     line-height: 80px;
@@ -61,7 +61,7 @@
     padding-bottom: 130px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .header__bottom {
     padding-bottom: 202px;
   }
@@ -267,7 +267,7 @@
     font-size: 48px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .section-title {
     font-size: 64px;
   }
@@ -329,7 +329,7 @@
     justify-items: center;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .compare-bikes__products {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 24px;
@@ -349,7 +349,7 @@
     column-gap: 24px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .about-us {
     --columns: 12;
   }
@@ -362,7 +362,7 @@
     grid-column: 1/4;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .about-us__title {
     grid-column: span 6;
   }
@@ -379,7 +379,7 @@
     grid-column: 4/7;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .about-us__description {
     grid-column: span 6/-1;
   }
@@ -414,7 +414,7 @@
     column-gap: 24px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .detail__photos {
     --columns: 12;
   }
@@ -427,7 +427,7 @@
     grid-column: span 4;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .detail__link--wide {
     grid-column: span 8;
   }
@@ -441,7 +441,7 @@
     grid-column: span 2;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .detail__link--square {
     grid-column: span 4;
   }
@@ -508,7 +508,7 @@
     height: 400px;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .footer {
     height: 555px;
   }
@@ -532,7 +532,7 @@
     column-gap: 24px;
   }
 }
-@media (min-width: 610px) and (min-width: 1024) {
+@media (min-width: 610px) and (min-width: 1024px) {
   .contacts__wrap {
     --columns: 12;
   }
@@ -548,7 +548,7 @@
     grid-column: span 2;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .contact__info {
     grid-column: 8/11;
   }
@@ -583,7 +583,7 @@
     grid-column: span 3;
   }
 }
-@media (min-width: 1024) {
+@media (min-width: 1024px) {
   .form {
     grid-column: span 5;
   }

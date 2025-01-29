@@ -1,3 +1,6 @@
+@use '../utils/mixins' as *;
+@use '../utils/variables.scss' as *;
+
 .form {
   @include on-tablet {
     grid-column: span 3;
